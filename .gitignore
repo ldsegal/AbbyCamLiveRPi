@@ -1,3 +1,7 @@
+# Hide personal data and program temp files from git
+StreamKey.txt # File containing user's personal YouTube stream key
+temp.jpg      # Temporary image file created by AbbyCam.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
